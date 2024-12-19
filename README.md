@@ -5,6 +5,8 @@ The repository houses a data set of images and masks collected in patches, to be
 Code examples are presented in the form of notebooks. These notebooks constitute illustrative examples rather than fully functional code, as data will need to be accessed in the users own designated directories.
 Finally, the model which has been developed and used to perform analyses is featured as a .pth file.
 
+I refrain from providing further details on the project here, as the thesis is yet to be evaluated.
+
 Once the project has been finalized formally, I hope to also house the full thesis here.
 
 ![image](https://github.com/user-attachments/assets/a5c0f88a-4b51-4fa1-a0e8-af1073cf81fc)
